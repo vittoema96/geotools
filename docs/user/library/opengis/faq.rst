@@ -13,7 +13,7 @@ Q: Does GeoTools implement "GeoAPI"?
 
 No we do not.
 
-GeoTools worked on a pre-release of these interfaces in the hopes of collaborating with other projects. In GeoTools 2.7 these interfaces were [folded back](https://osgeo-org.atlassian.net/browse/GEOT-3364) into the GeoTools OpenGIS module due to lack of collaboration opportunities and funding.
+GeoTools worked on a pre-release of these interfaces in the hopes of collaborating with other projects. In GeoTools 2.7 these interfaces were `folded back <https://osgeo-org.atlassian.net/browse/GEOT-3364`__ into the GeoTools OpenGIS module due to lack of collaboration opportunities and funding.
 
 Q: Why am I seeing Java exceptions related to the org.opengis namespace?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
